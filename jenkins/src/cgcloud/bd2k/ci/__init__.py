@@ -21,7 +21,8 @@ BOXES = [
 
     CgcloudJenkinsSlave,
     JobtreeJenkinsSlave,
-    UbuntuCactusBuild]
+    CactusBuildJenkinsSlave,
+	CactusTestJenkinsSlave]
 
 COMMANDS = [
     RegisterSlaves ]
